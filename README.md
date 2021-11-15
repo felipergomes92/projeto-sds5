@@ -7,5 +7,7 @@ https://dsvendas-felipergomes.netlify.app/
 
 DS Vendas é uma aplicação full stack web construida durante a 5ª edição da **Semana Spring React** (sds5), evento organizado pela [DevSuperior](https://devsuperior.com.br/).
 
-## Layout web
+## Layout home
+
+
 
